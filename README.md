@@ -3,10 +3,10 @@
 
 ---
 
-![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/14ab8422-4399-4bf2-9fce-18585896db1f)
+<img src="https://github.com/user-attachments/assets/14ab8422-4399-4bf2-9fce-18585896db1f" alt="GIF" align="center">
 
 
-- 🌱 I’m currently learning **Python & Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lihiniranasinha025@gmail.com**
 
