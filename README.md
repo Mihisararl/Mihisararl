@@ -3,7 +3,8 @@
 
 ---
 
- ![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/55d6b3fc-3ba4-4617-9839-2537593f4042)
+![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/14ab8422-4399-4bf2-9fce-18585896db1f)
+
 
 - 🌱 I’m currently learning **Python & Java**
 
