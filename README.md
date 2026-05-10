@@ -10,6 +10,12 @@
   <a href="mailto:lihiniranasinha025@gmail.com">
     <img src="https://img.shields.io/badge/Email-lihiniranasinha025%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/lihini-ranasinha-573b89291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mihisararl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
@@ -20,6 +26,7 @@
 - 🌱 Currently expanding my skills in **Java** development
 - 💻 Passionate about software development and problem-solving
 - 📫 Feel free to reach out: **lihiniranasinha025@gmail.com**
+- ⚡ Fun fact: I love turning ideas into code and learning new technologies!
 
 ---
 
@@ -66,17 +73,55 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihisararl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihisararl&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihisararl&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&icon_color=7fff00&title_color=7fff00&bg_color=0d1117" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihisararl&show_icons=true&theme=chartreuse-dark&layout=compact&hide_border=true&title_color=7fff00&bg_color=0d1117" alt="Top Languages" height="170">
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihisararl&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=7fff00&ring=7fff00&fire=7fff00&currStreakNum=7fff00&sideNums=7fff00&currStreakLabel=7fff00&sideLabels=7fff00&dates=7fff00" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihisararl&theme=chartreuse-dark&hide_border=true&area=true&bg_color=0d1117&color=7fff00&line=7fff00&point=7fff00&area_color=7fff00" alt="Contribution Graph" width="100%">
+</div>
+
+---
+
+## 🌿 Contribution Calendar (Green Boxes)
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://ghchart.rshah.org/mihisararl"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://ghchart.rshah.org/mihisararl"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://ghchart.rshah.org/mihisararl" alt="GitHub Contribution Calendar" width="100%" />
+  </picture>
+</div>
+
+<p align="center">
+  <i>🍀 Each green box represents a day you made a contribution!</i>
+</p>
 
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihisararl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mihisararl&label=Profile%20Views&color=7fff00&style=flat" alt="Profile Views" />
 </div>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>✨ Let's connect and build something amazing together! ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7fff00&height=100&section=footer" width="100%">
 </p>
