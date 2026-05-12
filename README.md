@@ -54,10 +54,10 @@
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mihisararl&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&icon_color=9b59b6&title_color=9b59b6&bg_color=0d1117" alt="GitHub Stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihisararl&show_icons=true&theme=chartreuse-dark&layout=compact&hide_border=true&title_color=9b59b6&bg_color=0d1117" alt="Top Languages" height="170">
-</div> -->
+</div> 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihisararl&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakNum=9b59b6&sideNums=9b59b6&currStreakLabel=9b59b6&sideLabels=9b59b6&dates=9b59b6" alt="GitHub Streak" />
