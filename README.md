@@ -47,6 +47,9 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin: 10px;"/></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;"/></a> 
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" style="margin: 10px;"/></a> 
+  <a href="https://www.wildfly.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg" alt="WildFly" width="50" height="50" style="margin: 10px;"/>
+</a>
   
 </div>
 
