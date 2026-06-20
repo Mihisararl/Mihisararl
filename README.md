@@ -50,9 +50,6 @@
   <a href="https://www.wildfly.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg" alt="WildFly" width="50" height="50" style="margin: 10px;"/>
 </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/canva" alt="Canva" width="50" height="50" style="margin: 10px;"/>
-</a>
   
 </div>
 
