@@ -50,6 +50,13 @@
   <a href="https://www.wildfly.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg" alt="WildFly" width="50" height="50" style="margin: 10px;"/>
 </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 10px;"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50" style="margin: 10px;"/>
+</a>
   
 </div>
 
